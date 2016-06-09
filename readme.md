@@ -77,7 +77,7 @@ a() = 4
 println(c.now) // 6
 ```
 
-The above example is an executable program. In general, `import rx._` is enough to get you started with Scala.Rx, and it will be assumed in all further examples. These examples are all taken from the [unit tests]().
+The above example is an executable program. In general, `import rx._` is enough to get you started with Scala.Rx, and it will be assumed in all further examples. These examples are all taken from the [unit tests](https://github.com/lihaoyi/scala.rx/tree/master/scalarx/shared/src/test/scala/rx).
 
 The basic entities you have to care about are [Var][3], [Rx][1] and [Obs][2]:
 
